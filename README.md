@@ -2,6 +2,10 @@
 
 This is a simple React app that displays a list of movies retrieved from The Movie Database (TMDb) API. The app allows the user to browse and search for movies, and also provides some additional details about each movie.
 
+<img width="1440" alt="Screenshot 2023-02-22 at 3 49 54 AM" src="https://user-images.githubusercontent.com/114471571/220471751-2f355d28-5a22-4b54-97da-5dfdf5ae9a3f.png">
+<img width="1440" alt="Screenshot 2023-02-22 at 3 51 38 AM" src="https://user-images.githubusercontent.com/114471571/220472222-d09e8b08-e58d-402e-a9bd-810b7cbec57c.png">
+
+
 ## Features
 
 - Displays a list of popular movies by default
